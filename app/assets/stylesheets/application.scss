@@ -1,1 +1,6 @@
 @import "bootstrap";
+@import "welcome.scss";
+
+body, .navbar{
+	background-color: #68C4DE !important;
+}
